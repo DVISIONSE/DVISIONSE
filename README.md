@@ -8,6 +8,5 @@ we are a newcomer to the market that dedicates its knowledge to develop websites
 
 -location: cape verde
 
--current age: 16
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DVISIONSE&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DVISIONSE&show_icons=true&theme=midnight-purple)
